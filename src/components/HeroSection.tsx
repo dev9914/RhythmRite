@@ -12,7 +12,7 @@ const HeroSection = () => {
         fill="white"
       />
       <div className=' text-4xl md:text-4xl font-bold bg-clip-text text-transparent bg-gradient-to-b from-neutral-50 to-neutral-400 absolute top-[50px] left-2'>
-        <Cover >
+        <Cover className='cursor-pointer'>
       RhythmRite
         </Cover>
       </div>
